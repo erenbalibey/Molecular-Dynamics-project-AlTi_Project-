@@ -21,8 +21,8 @@ This project performs a Molecular Dynamics (MD) simulation to calculate and visu
    Open your terminal in the project directory and run:
    ```bash
    lmp.exe -in in.proje
-
-   and you will get the output.txt file
+   
+**and you will get the output.txt file**
 
 ## 📊 Results
 
