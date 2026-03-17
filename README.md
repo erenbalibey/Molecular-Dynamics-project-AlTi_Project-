@@ -26,18 +26,6 @@ This project performs a Molecular Dynamics (MD) simulation to calculate and visu
 
 ## 📊 Results
 
-First 5 atoms - Position values:
-[[0.    0.    0.   ]
- [2.025 2.025 0.   ]
- [2.025 0.    2.025]
- [0.    2.025 2.025]
- [4.05  0.    0.   ]]
-First 5 atoms - Acceleration values:
-[[-0.00219766  0.00059033 -0.00039789]
- [-0.00468484 -0.00142876  0.00444855]
- [-0.0023286  -0.00114793 -0.00139445]
- [ 0.00284902 -0.00144748  0.00011059]
- [-0.00249599 -0.00036669  0.00163101]]
-
+![Acceleration and Position values for first 5 atoms ](image-1.png)
 
 ![3D Atomic Positions and Acceleration Vectors of Al-Ti Alloy (t=0)](image.png)
