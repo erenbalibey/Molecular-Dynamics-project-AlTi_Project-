@@ -29,3 +29,6 @@ This project performs a Molecular Dynamics (MD) simulation to calculate and visu
 ![Acceleration and Position values for first 5 atoms ](image-1.png)
 
 ![3D Atomic Positions and Acceleration Vectors of Al-Ti Alloy (t=0)](image.png)
+
+COMPUTATIONAL MODELING AND SIMULATION OF MATERIALS
+Muhammed Eren Balıbey 2540091015 
