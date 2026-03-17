@@ -13,23 +13,22 @@ This project performs a Molecular Dynamics (MD) simulation to calculate and visu
 - `library.meam` & `TiAl.meam`: MEAM potential parameter files. (Obtained from this link:https://www.ctcms.nist.gov/potentials/entry/2025--Sharifi-H-Wick-C-D--Ti-Al/2025--Sharifi-H--Ti-Al--LAMMPS--ipr1.html)
 - `lmp.exe`: LAMMPS executable engine. (Find the LAMMPS folder in the AppData\Local location and copy all the files inside the "bin" folder to this project file)
 - `output.txt`: Raw simulation data (positions and forces).
-- `analysis.ipynb`: Jupyter Notebook for processing and visualization.
+- `Python_Code_for_Results.ipynb`: Jupyter Notebook for processing and visualization.
 
 ## 🛠️ Usage
 
 1. **Run Simulation:**
    Open your terminal in the project directory and run:
    ```bash
-   lmp.exe -in in.proje
-   
+   lmp.exe -in in.proje  
 **and you will get the output.txt file**
 
 ## 📊 Results
 
 ![Acceleration and Position values for first 5 atoms ](image-1.png)
-
+Acceleration and Position values for first 5 atoms
 ![3D Atomic Positions and Acceleration Vectors of Al-Ti Alloy (t=0)](image.png)
-
+3D Atomic Positions and Acceleration Vectors of Al-Ti Alloy (t=0)
 COMPUTATIONAL MODELING AND SIMULATION OF MATERIALS
 
 Muhammed Eren Balıbey 2540091015 
