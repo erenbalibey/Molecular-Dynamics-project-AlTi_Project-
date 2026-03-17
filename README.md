@@ -11,7 +11,7 @@ This project performs a Molecular Dynamics (MD) simulation to calculate and visu
 ## 📁 File Structure
 - `in.proje`: LAMMPS input script.
 - `library.meam` & `TiAl.meam`: MEAM potential parameter files. (Obtained from this link:https://www.ctcms.nist.gov/potentials/entry/2025--Sharifi-H-Wick-C-D--Ti-Al/2025--Sharifi-H--Ti-Al--LAMMPS--ipr1.html)
-- `lmp.exe`: LAMMPS executable engine.
+- `lmp.exe`: LAMMPS executable engine. (Find the LAMMPS folder in the AppData\Local location and copy all the files inside the "bin" folder to this project file)
 - `output.txt`: Raw simulation data (positions and forces).
 - `analysis.ipynb`: Jupyter Notebook for processing and visualization.
 
